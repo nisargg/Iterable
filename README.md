@@ -1,5 +1,5 @@
 # Iterable
-Iterable Take Home Test
+Iterable Assignment
 
 Assignment included two tasks:
 a. Initialize the SDK with the email address 
